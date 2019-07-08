@@ -25,7 +25,6 @@
       <url>file:///path/to/repo</url>
     </repository>
   </distributionManagement>
-</project>
 
 
 </project>
